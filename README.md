@@ -21,6 +21,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-%237A1FA2.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-%230072C6.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 
 
